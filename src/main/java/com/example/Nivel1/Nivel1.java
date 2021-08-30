@@ -60,12 +60,12 @@ public class Nivel1 {
             sum += items.get(itemsName.get(id));
         }
 
-        /*
+
         for (String text: itemsResult){
             System.out.println(text);
         }
 
-        System.out.println(sum);*/
+        System.out.println(sum);
 
         return itemsResult;
     }
