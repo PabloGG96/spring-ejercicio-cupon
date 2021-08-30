@@ -72,3 +72,5 @@ Y para ejecutar la api:
 
 * Dirección: http://spring-ejercicio-cupon.azurewebsites.net/coupon
 
+* Body: debe utilizarse el mismo formato para enviar.
+
